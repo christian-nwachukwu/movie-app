@@ -1,0 +1,51 @@
+<div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+
+      <div className="hero">
+        <img src={logo} className="App-logo" alt="logo" />
+        <h2>Text</h2>
+        <p>another text</p>
+      </div>
+
+      <div>
+        <img src={logo} className="movie-image" alt="movie" />
+        <div><img src={logo} className="Star-image" alt="Star" />
+          <p></p>
+          <p></p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+
+<Section 
+            
+            name='Mrs. Katie Bach'
+            email='katie.bach@yahoomail.com'
+            phone='0803-555-3000'
+        />
+        <Section>
+
+
+<div className="info-group">
+                        <img src="" className="contact-icon" alt="phone-icon" />
+                        <p>817-665-5555</p>
+                    </div>
+                    <div className="info-group">
+                        <img src="" className="contact-icon" alt="email-icon" />
+                        <p>katie.bach@yahoomail.com</p>
+                    </div>
