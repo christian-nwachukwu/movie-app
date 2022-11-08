@@ -76,7 +76,7 @@ ul {
 /*Header*/
 
 .header{
-  background-image: url("https://th.bing.com/th/id/OIP.EV_VU0sINRxmxJru2sM38wHaLH?w=185&h=278&c=7&r=0&o=5&pid=1.7");
+  background-image: url(" ");
   background-color: #82aceb;
   color: #ffffff;
   min-height: 300px;
@@ -86,7 +86,7 @@ ul {
 }
 
 .header h1 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: bold;
   line-height: 1.2;
 }

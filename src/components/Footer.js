@@ -52,7 +52,7 @@ function Footer() {
                 <div class="footer-icons">
 
                 <a target = "blank" href = 'https://www.youtube.com/channel/UC-gCUMK_EGUqJ7P9VA7BJmQ'><i class="fab fa-youtube"></i></a>
-                <a target = "blank" href='https://twitter.com/codingCommander' ><i class="fab fa-twitter"></i></a>
+                <a target = "blank" href='https://twitter.com/codingCommander'><i class="fab fa-twitter"></i></a>
                 <a target = "blank" href='https://www.facebook.com/codingcommanders/'><i class='fab fa-facebook'></i></a>
                 <a target = "blank" href='https://www.instagram.com/codingcommanders'><i class='fab fa-instagram'></i></a>
 
