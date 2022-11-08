@@ -4,7 +4,7 @@ function Footer() {
 
             <div class="footer-left">
 
-                <h3>Company<span>logo</span></h3>
+                <h3>Genesis<span>Cinema</span></h3>
 
                 <p class="footer-links">
                 <a href="#" class="link-1">Home</a>
@@ -20,24 +20,24 @@ function Footer() {
                 <a href="#">Contact</a>
                 </p>
 
-                <p class="footer-company-name">Company Name © 2015</p>
+                <p class="footer-company-name">Genesis Cinema © 2015</p>
             </div>
 
             <div class="footer-center">
 
                 <div>
                 <i class="fa fa-map-marker"></i>
-                <p><span>444 S. Cedros Ave</span> Solana Beach, California</p>
+                <p><span>444 Ikorodu Road</span> Maryland, Lagos State</p>
                 </div>
 
                 <div>
-                <i class="fa fa-phone"></i>
+                <i class="fab fa-phone"></i>
                 <p>+1.555.555.5555</p>
                 </div>
 
                 <div>
-                <i class="fa fa-envelope"></i>
-                <p><a href="mailto:support@company.com">support@company.com</a></p>
+                <i class="fab fa-envelope"></i>
+                <p><a href="mailto:support@genesiscinema.com">support@genesiscinema.com</a></p>
                 </div>
 
             </div>
@@ -51,10 +51,10 @@ function Footer() {
 
                 <div class="footer-icons">
 
-                <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-twitter"></i></a>
-                <a href="#"><i class="fa fa-linkedin"></i></a>
-                <a href="#"><i class="fa fa-github"></i></a>
+                <a target = "blank" href = 'https://www.youtube.com/channel/UC-gCUMK_EGUqJ7P9VA7BJmQ'><i class="fab fa-youtube"></i></a>
+                <a target = "blank" href='https://twitter.com/codingCommander' ><i class="fab fa-twitter"></i></a>
+                <a target = "blank" href='https://www.facebook.com/codingcommanders/'><i class='fab fa-facebook'></i></a>
+                <a target = "blank" href='https://www.instagram.com/codingcommanders'><i class='fab fa-instagram'></i></a>
 
                 </div>
 

@@ -4,7 +4,7 @@ function Header () {
     return(
         <header className="header">
                 <div className="header-text">
-                    <h1>Flex Box Crash Course</h1>
+                    <h1>Genesis Cinema and Movies</h1>
                     <p>Note the development build.
                     To create a production build, use npm run build.
                     webpack compiled successfully</p>
