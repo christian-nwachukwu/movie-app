@@ -76,10 +76,9 @@ ul {
 /*Header*/
 
 .header{
-  background-image: url(" ");
   background-color: #82aceb;
   color: #ffffff;
-  min-height: 300px;
+  min-height: 200px;
   display: flex;
   align-items: center;
   flex-wrap: nowrap;
